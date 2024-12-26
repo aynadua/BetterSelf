@@ -12,7 +12,7 @@ Better Self is an interactive mood tracker application designed to help users lo
 ### Diary Entries
 - Happy or calm users can write diary entries to capture positive moments.
 - Users feeling lonely or disappointed can revisit their joyful diary entries for support.
- ![image](https://github.com/user-attachments/assets/79c8871e-71da-44c8-ae69-3cfdcac80ffa)
+  
 
 ### Affirmations
 - A collection of uplifting affirmations to provide comfort and encouragement.
