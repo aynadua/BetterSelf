@@ -7,31 +7,43 @@ Better Self is an interactive mood tracker application designed to help users lo
 ### Mood Tracking
 - Users can log their current mood: **joyful**, **calm**, **lonely**, or **disappointed**.
 - The app responds with tailored messages and options based on the user's mood.
-- ![image](https://github.com/user-attachments/assets/79c8871e-71da-44c8-ae69-3cfdcac80ffa)
+- ![image](https://github.com/user-attachments/assets/392f2555-0dbf-43b5-b93d-9aa350d83a56)
+
 
 
 ### Diary Entries
 - Happy or calm users can write diary entries to capture positive moments.
 - Users feeling lonely or disappointed can revisit their joyful diary entries for support.
+- ![image](https://github.com/user-attachments/assets/79c8871e-71da-44c8-ae69-3cfdcac80ffa)
 
 ### Affirmations
 - A collection of uplifting affirmations to provide comfort and encouragement.
+- ![image](https://github.com/user-attachments/assets/79c8871e-71da-44c8-ae69-3cfdcac80ffa)
 
 ### Suggestions for Activities and Media
 - **For Lonely Users:**
   - Suggestions for simple activities like walks or crafts.
   - Links to relaxing music playlists.
+  - ![image](https://github.com/user-attachments/assets/48a654be-0ba8-4b8c-b787-db8528d90001)
+
 - **For Disappointed Users:**
   - Random affirmations.
   - Links to comforting podcasts.
+  - ![image](https://github.com/user-attachments/assets/d91c575b-b606-46ca-8ed4-e1941732f5f0)
+
 - **For Joyful Users:**
   - Links to upbeat music playlists.
+  - ![image](https://github.com/user-attachments/assets/311c460d-5a04-4d1e-920f-bd3c1be0f70a)
+
 - **For Calm Users:**
   - Links to motivational podcasts.
+  - ![image](https://github.com/user-attachments/assets/1f08dd88-8d17-4fe0-a226-8ac3b1a62675)
+
 
 ### User Authentication
 - Secure login and sign-up system with password protection.
 - User data is stored locally for privacy and quick access.
+- ![image](https://github.com/user-attachments/assets/79c8871e-71da-44c8-ae69-3cfdcac80ffa)
 
 ## Requirements
 
