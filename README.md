@@ -25,20 +25,23 @@ Better Self is an interactive mood tracker application designed to help users lo
 - **For Lonely Users:**
   - Suggestions for simple activities like walks or crafts.
   - Links to relaxing music playlists.
-   ![image](https://github.com/user-attachments/assets/48a654be-0ba8-4b8c-b787-db8528d90001)
+  ![Editing BetterSelf_README md at main · aynadua_BetterSelf - Google Chrome 12_26_2024 9_22_45 AM](https://github.com/user-attachments/assets/cb99a80c-274c-4210-8fc1-3f20a5115d87)
 
 - **For Disappointed Users:**
   - Random affirmations.
   - Links to comforting podcasts.
-   ![image](https://github.com/user-attachments/assets/d91c575b-b606-46ca-8ed4-e1941732f5f0)
+  ![Editing BetterSelf_README md at main · aynadua_BetterSelf - Google Chrome 12_26_2024 9_23_11 AM](https://github.com/user-attachments/assets/bac974dd-cb53-4faf-8232-0fe36269035a)
+
 
 - **For Joyful Users:**
   - Links to upbeat music playlists.
-   ![image](https://github.com/user-attachments/assets/311c460d-5a04-4d1e-920f-bd3c1be0f70a)
+   ![Editing BetterSelf_README md at main · aynadua_BetterSelf - Google Chrome 12_26_2024 9_23_38 AM](https://github.com/user-attachments/assets/a26c66d5-d77d-4be5-90b2-e90053286579)
+
 
 - **For Calm Users:**
   - Links to motivational podcasts.
-   ![image](https://github.com/user-attachments/assets/1f08dd88-8d17-4fe0-a226-8ac3b1a62675)
+   ![Editing BetterSelf_README md at main · aynadua_BetterSelf - Google Chrome 12_26_2024 9_24_03 AM](https://github.com/user-attachments/assets/9145fbf3-ab79-4c6f-b0c3-00ebaed7706f)
+
 
 
 ### User Authentication
