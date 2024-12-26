@@ -1,4 +1,4 @@
-# Better Self - Mood Tracker
+# Better Self - Regulating Emotions
 
 Better Self is an interactive mood tracker application designed to help users log their emotions, record joyful memories, and find support during challenging times. It provides affirmations, activity suggestions, music, and podcasts to enhance the user’s mental well-being.
 
