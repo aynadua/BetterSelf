@@ -7,7 +7,8 @@ Better Self is an interactive mood tracker application designed to help users lo
 ### Mood Tracking
 - Users can log their current mood: **joyful**, **calm**, **lonely**, or **disappointed**.
 - The app responds with tailored messages and options based on the user's mood.
- ![image](https://github.com/user-attachments/assets/79c8871e-71da-44c8-ae69-3cfdcac80ffa)
+ ![Better Self - Mood Tracker 12_26_2024 9_22_07 AM](https://github.com/user-attachments/assets/545506e9-f06d-4a7d-ad34-c3c5dded179e)
+
 
 ### Diary Entries
 - Happy or calm users can write diary entries to capture positive moments.
