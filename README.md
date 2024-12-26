@@ -7,6 +7,8 @@ Better Self is an interactive mood tracker application designed to help users lo
 ### Mood Tracking
 - Users can log their current mood: **joyful**, **calm**, **lonely**, or **disappointed**.
 - The app responds with tailored messages and options based on the user's mood.
+- ![image](https://github.com/user-attachments/assets/79c8871e-71da-44c8-ae69-3cfdcac80ffa)
+
 
 ### Diary Entries
 - Happy or calm users can write diary entries to capture positive moments.
@@ -46,7 +48,7 @@ Better Self is an interactive mood tracker application designed to help users lo
    ```
 2. Navigate to the project directory:
    ```bash
-   cd betterself
+   cd BetterSelf
    ```
 3. Run the application:
    ```bash
