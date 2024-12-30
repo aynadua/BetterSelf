@@ -51,7 +51,7 @@ Better Self is an interactive mood tracker application designed to help users lo
 ### User Authentication
 - Secure login and sign-up system with password protection.
 - User data is stored locally for privacy and quick access.
-- 
+
 ![image](https://github.com/user-attachments/assets/392f2555-0dbf-43b5-b93d-9aa350d83a56)
 ## Requirements
 
